@@ -1,0 +1,29 @@
+{
+  "_bootstrap-MqdGl1xd.js": {
+    "file": "assets/bootstrap-MqdGl1xd.js",
+    "name": "bootstrap"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-Bk_xiBNe.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin-CwMq6GUO.js",
+    "name": "admin",
+    "src": "resources/js/admin.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap-MqdGl1xd.js"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CqJYPSNX.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap-MqdGl1xd.js"
+    ]
+  }
+}
